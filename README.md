@@ -28,4 +28,3 @@ Go to the project directory
   cd todo-app-in-htm-css-js
   code .
 ```
-# neerajmandhan.github.io-wepage-
