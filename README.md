@@ -15,19 +15,5 @@ HTML5, CSS3, JavaScript
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/safdarhussainmangnejo/todo-app-in-htm-css-js
-
-```
-
-Go to the project directory
-
-```bash
-  cd todo-app-in-htm-css-js
-  code .
-```
-
 # Website URL:
 https://neerajmandhan.github.io/To-Do-List/
