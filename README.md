@@ -16,4 +16,4 @@ HTML5, CSS3, JavaScript
 ## Run Locally
 
 # Website URL:
-https://neerajmandhan.github.io/To-Do-List/
+https://neerajkumarr.github.io/To-Do-List/
