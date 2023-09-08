@@ -13,7 +13,6 @@ task and click on the task if completed.
 
 HTML5, CSS3, JavaScript
 
-## Run Locally
 
 # Website URL:
 https://neeraj-kumarr.github.io/To-Do-List/s
