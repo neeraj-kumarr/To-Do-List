@@ -15,4 +15,4 @@ HTML5, CSS3, JavaScript
 
 
 # Website URL:
-https://neeraj-kumarr.github.io/To-Do-List/s
+https://neeraj-kumarr.github.io/To-Do-List/
